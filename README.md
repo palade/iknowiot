@@ -1,2 +1,2 @@
 # iot-knowledge-base
-Things, concepts, science made easy!
+IOT, Things, concepts, science made easy!
