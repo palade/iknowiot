@@ -15,6 +15,10 @@ provider, which renders the service requests and sends service responses back to
 service consumer. How the service requests and responses are represented or formatted
 and how the service consumer and service provider communicate with each
 other constitute the watershed for different styles of SOAs.
+
+![Alt text](../figures/soa.jpg)
+
+
 XML Web services are the most popular implementation of SOA today. XML
 Web services infrastructure enables service publishing, discovery, and message
 exchange between a service provider and its consumer. As shown in Figure 2.14,
